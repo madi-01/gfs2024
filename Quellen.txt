@@ -1,0 +1,17 @@
+Bücher:
+We love Code - Das kleine 101 des Programmierens - Julia Hoffmann, Natalie Sontopski
+
+Websides: 3.1.24
+https://wirtschaftslexikon.gabler.de/definition/programmiersprache2635#head1
+https://de.wikipedia.org
+https://de.linkedin.com/learning/audiokurs-begriffe-aus-der-webentwicklung-einfach-erklart/warum-gibt-es-verschiedene-programmiersprachen
+https://www.dmsfactory.com/glossar-programmiersprache
+https://www.wissen-digital.de/Programmiersprachen
+https://files.ifi.uzh.ch/ddis/emba/fois_Software_de_scorm/Software/de/html/le4_learningObject2.html
+https://www.computerweekly.com/de/definition/Objektorientierte-Programmierung-OOP
+https://www.spektrum.de/news/kuenstliche-intelligenz-die-zukunft-des-programmierens/2127042
+https://www.get-in-it.de/magazin/bewerbung/it-skills/welche-programmiersprache-lernen
+
+Bilder: 4.1.24
+https://www.ymca.int/refine-chat-gpt-prompts/
+https://bmu-verlag.de/ki-und-ml-geeignete-programmiersprachen/
