@@ -1,5 +1,4 @@
 import random
-
 def lotto():
     numbers = random.sample(range(1, 50), 6)
     numbers.sort()
